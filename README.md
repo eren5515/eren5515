@@ -8,4 +8,4 @@
 
 <h3 align="left">My Skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,sass,cs,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,tailwind,sass,cs,python)](https://skillicons.dev)
