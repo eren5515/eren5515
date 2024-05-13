@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Mehmet Eren Kılıç</h1>
-<h3 align="center">Software Developer from Istanbul, Turkey</h3>
+<h3 align="center">Frontend Developer from Istanbul, Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
